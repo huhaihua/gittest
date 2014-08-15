@@ -1,1 +1,2 @@
 add a line in test.txt
+test for conflict
