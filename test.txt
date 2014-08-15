@@ -2,3 +2,4 @@ add a line in test.txt
 this is conflict test
 this is a conflict test
 stash test
+stash again
